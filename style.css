@@ -1,0 +1,95 @@
+p1{
+    color: rgb(231, 39, 103);
+}
+.main1{
+    display: flex;
+}  
+h4{
+    color: rgb(231, 39, 103); ;
+} 
+.main2{
+    display: flex;
+}
+.main3{
+    display: flex;
+}
+
+.columns{
+    display :flex;
+    align-items: center;
+    float:center;
+    width:50.2%;
+    height: 10vh;
+    column-gap: 10%;
+    padding-left: 15%;
+}
+.imagesbox{
+    gap: 20%;
+}
+.testimonials{
+    display :flex;
+   
+}
+.images1{
+    padding-right: 5%;
+    padding-left:5%;
+    margin-left: 50%;
+    margin-right:11%;
+
+}
+
+.paragraph2{
+    border: solid 2px;
+    margin-left: 10%;
+    border:none;
+}
+
+#container{
+    display:flex;
+    column-gap: 10%;
+    padding-left: 15%;
+   
+}
+.testimonials{
+    padding-left:40%;
+}
+h{
+    color: rgb(231, 39, 103);
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.team{
+    padding-left:40%;
+}
+p7{
+    color:rgb(231, 39, 103) ;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagesbox{
+    padding-left: 15%;
+}
+.middlewords{
+    padding-left: 40%;
+}
+.side2{
+    display: flex;
+    column-gap: 20%;
+    padding-left: 15%;
+}
+#images3{
+    padding-left: 40%;
+    padding-right: 10%;
+
+}
+.paragraph3{
+    padding-left: 10%;
+}
+.paragraph1{
+    padding-left:10% ;
+}
+@media all and (max-width:400px)
+
+    
+
+
